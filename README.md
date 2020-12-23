@@ -18,3 +18,5 @@ ENC='$(echo -n '<user>:<pass>' | openssl base64 -base64)'
   --output-document \
   - https://api.ecrimex.net/phish
  ```
+ 
+ # Re.: https://support.datameer.com/hc/en-us/articles/217029526-How-to-Use-Wget-for-REST-API-Access
